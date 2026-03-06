@@ -31,7 +31,6 @@ BASE_PRICES = {
 ADMIN_IPS = [
     # "192.168.1.100",  # Example: Add your admin IPs here
     # "10.0.0.50",
-    "192.168.1.37"
 ]
 
 def get_client_ip():
